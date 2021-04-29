@@ -1,3 +1,11 @@
 1. AI
 2. Machine Learning
 3. Deep learning
+ 3.1 Deepth
+ 3.2 Loss function
+ To control something, first you need to be able to observe it. To control the output of
+ a neural network, you need to be able to measure how far this output is from what you
+ expected. This is the job of the loss function of the network, also called the objective
+ function. The loss function takes the predictions of the network and the true target
+ (what you wanted the network to output) and computes a distance score, capturing
+ how well the network has done on this specific example
