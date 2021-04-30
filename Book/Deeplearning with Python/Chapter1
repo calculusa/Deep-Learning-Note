@@ -2,6 +2,7 @@
 2. Machine Learning
 3. Deep learning
  3.1 Deepth
+ 
  3.2 Loss function
  To control something, first you need to be able to observe it. To control the output of
  a neural network, you need to be able to measure how far this output is from what you
@@ -9,9 +10,15 @@
  function. The loss function takes the predictions of the network and the true target
  (what you wanted the network to output) and computes a distance score, capturing
  how well the network has done on this specific example
+ 
  3.3
  For our purposes, deep learning is a mathematical framework for learning representations from data.
+ 
  3.4 What makes deep learning different
  The primary reason deep learning took off so quickly is that it offered better performance
  on many problems. But that’s not the only reason. Deep learning also makes problem-solving much easier, 
  because it completely automates what used to be the most crucial step in a machine-learning workflow: feature engineering.
+ 
+ 3.4 Why DL,Why now
+ The Long Short-Term Memory (LSTM) algorithm, which is fundamental to deep learning for
+ timeseries, was developed in 1997 and has barely changed since.
