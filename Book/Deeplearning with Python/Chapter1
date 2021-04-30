@@ -9,3 +9,9 @@
  function. The loss function takes the predictions of the network and the true target
  (what you wanted the network to output) and computes a distance score, capturing
  how well the network has done on this specific example
+ 3.3
+ For our purposes, deep learning is a mathematical framework for learning representations from data.
+ 3.4 What makes deep learning different
+ The primary reason deep learning took off so quickly is that it offered better performance
+ on many problems. But that’s not the only reason. Deep learning also makes problem-solving much easier, 
+ because it completely automates what used to be the most crucial step in a machine-learning workflow: feature engineering.
