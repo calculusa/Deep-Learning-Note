@@ -20,5 +20,5 @@
  because it completely automates what used to be the most crucial step in a machine-learning workflow: feature engineering.
  
  3.4 Why DL,Why now
- The Long Short-Term Memory (LSTM) algorithm, which is fundamental to deep learning for
- timeseries, was developed in 1997 and has barely changed since.
+ The Long Short-Term Memory (LSTM) algorithm, 
+ which is fundamental to deep learning for timeseries, was developed in 1997 and has barely changed since.
