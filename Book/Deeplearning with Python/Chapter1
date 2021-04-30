@@ -22,3 +22,13 @@
  3.4 Why DL,Why now
  The Long Short-Term Memory (LSTM) algorithm, 
  which is fundamental to deep learning for timeseries, was developed in 1997 and has barely changed since.
+ 3.4.1 Hardware
+ 3.4.2 Data
+ 3.4.3 Algorithms
+ In addition to hardware and data, until the late 2000s, we were missing a reliable way to
+ train very deep neural networks. As a result, neural networks were still fairly shallow, 
+ using only one or two layers of representations; thus, they weren’t able to shine against
+ more-refined shallow methods such as SVMs and random forests. The key issue was that
+ of gradient propagation through deep stacks of layers. The feedback signal used to train
+ neural networks would fade away as the number of layers increased.
+ 
