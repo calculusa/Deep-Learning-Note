@@ -17,3 +17,7 @@ Chapter2 Before we begin: the mathematical building blocks of neural networks
    Data type
  2.2.6 Manipulating tensors in Numpy 
  2.2.7 The notion of data batches
+  The first axis (axis 0) is called the batch axis or
+  batch dimension. This
+ 2.2.8 Real-world examples of data tensors
+  
