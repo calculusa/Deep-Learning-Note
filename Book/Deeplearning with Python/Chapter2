@@ -1,1 +1,16 @@
 Chapter2 Before we begin: the mathematical building blocks of neural networks
+2.1 A first look at a neural network
+ A loss function
+ An optimizer
+ Metrics to monitor during training and testing
+
+2.2 Data representations for neural networks
+ 2.2.1 Scalars (0D tensors)
+ 2.2.2 Vectors (1D tensors)
+ 2.2.3 Matrices (2D tensors)
+ 2.2.4 3D tensors and higher-dimensional tensors
+ 2.2.5 Key attributes
+  A tensor is defined by three key attributes:
+   Number of axes (rank)
+   Shape
+   Data type
