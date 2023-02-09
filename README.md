@@ -1,2 +1,2 @@
 # Deep-Learning-Note
-This repository will record my deep learning study progress
+This repository will record deep learning study progress
